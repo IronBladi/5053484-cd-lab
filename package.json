@@ -1,0 +1,16 @@
+{
+  "name": "5053484-cd-lab",
+  "version": "1.0.0",
+  "description": "Laboratorio CI/CD - Control de calidad con ESLint y Jest",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "eslint": "^9.39.2",
+    "globals": "^17.0.0",
+    "jest": "^30.2.0"
+  }
+}
